@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 const theme = createTheme({
-  // you can customize your theme here
+  //  customize the theme here later
 });
 
 ReactDOM.render(
